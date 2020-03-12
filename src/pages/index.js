@@ -8,10 +8,10 @@ import Footer from '../components/Footer';
 import SocialLinks from '../components/SocialLinks';
 import Header from '../components/Header';
 
-import ipad from '../assets/images/ipad.png';
-import demoImage1 from '../assets/images/demo-image-01.jpg';
-import demoImage2 from '../assets/images/demo-image-02.jpg';
-import bgMaster from '../assets/images/bg-masthead.jpg';
+import img from '../assets/images/img.png';
+import eat from '../assets/images/eat.png';
+import postman from '../assets/images/postman.png';
+import redCup from '../assets/images/rcg.png';
 
 const IndexPage = () => (
   <Layout>
@@ -38,7 +38,7 @@ const IndexPage = () => (
         <div className="row">
 
         </div>
-        <img src={ipad} className="img-fluid" alt="" />
+        <img src={img} className="img-fluid" alt="" />
       </div>
     </section>
 
@@ -46,7 +46,7 @@ const IndexPage = () => (
       <div className="container">
         <div className="row align-items-center no-gutters mb-4 mb-lg-5">
           <div className="col-xl-8 col-lg-7">
-            <img className="img-fluid mb-3 mb-lg-0" src={bgMaster} alt="" />
+            <img className="img-fluid mb-3 mb-lg-0" src={eat} alt="" />
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
@@ -62,7 +62,7 @@ const IndexPage = () => (
 
         <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div className="col-lg-6">
-            <img className="img-fluid" src={demoImage1} alt="" />
+            <img className="img-fluid" src={postman} alt="" />
           </div>
           <div className="col-lg-6">
             <div className="bg-black text-center h-100 project">
@@ -82,7 +82,7 @@ const IndexPage = () => (
 
         <div className="row justify-content-center no-gutters">
           <div className="col-lg-6">
-            <img className="img-fluid" src={demoImage2} alt="" />
+            <img className="img-fluid" src={redCup} alt="" />
           </div>
           <div className="col-lg-6 order-lg-first">
             <div className="bg-black text-center h-100 project">
