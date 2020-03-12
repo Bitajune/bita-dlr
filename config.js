@@ -6,8 +6,8 @@ module.exports = {
   manifestBackgroundColor: 'rgb(46, 61, 55)',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
+  manifestIcon: 'src/assets/img/eye3.png',
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Bita De La Rosa',
   subHeading: 'Software Developer',
 
