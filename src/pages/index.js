@@ -11,7 +11,6 @@ import Header from '../components/Header';
 import img from '../assets/images/img.png';
 import eat from '../assets/images/eat.png';
 import postman from '../assets/images/postman.png';
-import redCup from '../assets/images/rcg.png';
 
 const IndexPage = () => (
   <Layout>
@@ -50,11 +49,9 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-              <h4>Shoreline</h4>
+              <h4>Of The Rose</h4>
               <p className="text-black-50 mb-0">
-                Grayscale is open source and MIT licensed. This means you can
-                use it for any project - even commercial projects! Download it,
-                customize it, and publish your website!
+                Welcome to Of The Rose. A place for people to come and find things that make their world a little brighter. Here you can search for florists, bars, and restaurants in your city through both Yelp and Google Maps API.
               </p>
             </div>
           </div>
@@ -68,10 +65,9 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 className="text-white">Misty</h4>
+                  <h4 className="text-white">Postman</h4>
                   <p className="mb-0 text-white-50">
-                    An example of where you can put an image of a project, or
-                    anything else, along with a description.
+                    With Google OAuth, users will have access to find centers that aid people in need.
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
@@ -80,26 +76,6 @@ const IndexPage = () => (
           </div>
         </div>
 
-        <div className="row justify-content-center no-gutters">
-          <div className="col-lg-6">
-            <img className="img-fluid" src={redCup} alt="" />
-          </div>
-          <div className="col-lg-6 order-lg-first">
-            <div className="bg-black text-center h-100 project">
-              <div className="d-flex h-100">
-                <div className="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 className="text-white">Mountains</h4>
-                  <p className="mb-0 text-white-50">
-                    Another example of a project with its respective
-                    description. These sections work well responsively as well,
-                    try this theme on a small screen!
-                  </p>
-                  <hr className="d-none d-lg-block mb-0 mr-0" />
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
 
