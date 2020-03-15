@@ -9,15 +9,15 @@
 }
 
 .btn-primary {
-  background-color: $primary;
+  background-color: rgb(239, 197, 197);
   &:hover {
-    background-color: darken($primary, 10%);
+    background-color: darken(rgb(239, 197, 197), 10%);
   }
   &:focus {
-    background-color: darken($primary, 10%);
+    background-color: darken(rgb(239, 197, 197), 10%);
     color: white;
   }
   &:active {
-    background-color: darken($primary, 15%) !important;
+    background-color: darken(rgb(239, 197, 197), 15%) !important;
   }
 }

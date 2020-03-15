@@ -1,6 +1,6 @@
 #mainNav {
   min-height: 56px;
-  background-color: $white;
+  background-color: rgba(239, 197, 197, 0.8);
   .navbar-toggler {
     font-size: 80%;
     padding: 0.75rem;
@@ -51,7 +51,7 @@
       }
     }
     &.navbar-shrink {
-      background-color: $white;
+      background-color: rgba(239, 197, 197, 0.8);
       .navbar-brand {
         color: $black;
       }
