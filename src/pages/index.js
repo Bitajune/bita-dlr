@@ -35,10 +35,12 @@ const IndexPage = () => (
     <section id="about" className="about-section text-center">
       <div className="container">
         <div className="row">
-
+          <h1 className="bio">I am a manager, teacher, and magician who found her home in Software Development with a love for Front-End Development and CSS. Having to wear multiple hats throughout my career, I love the challenge of juggling multiple assignments at once while always keeping an eye on time management to make sure everything is completed on-time. I also thrive working in a team environment as I love to meet new people while working together to achieve our goals.</h1>
+          <h1 className="bio">Something that I value in a company and my own work ethic is the mentality to always be passionate about what you’re working on and pushing oneself to continue to learn. As a former teacher, I am drawn to the idea of always learning and always growing as well as communicating with others in a respectful way to get the job done. I feel that software engineering follows a similar method of problem-solving that comes with teaching as it comes down to a really good problem-solving strategy. All the languages are secondary to just being a really good problem solver.</h1>
         </div>
         <img src={img} className="img-fluid" alt="" />
       </div>
+
     </section>
 
     <section id="projects" className="projects-section bg-light">
