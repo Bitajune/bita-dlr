@@ -125,13 +125,12 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-      </div>
     </section>
 
 
 
-  <SocialLinks />
-  <Footer />
+    <SocialLinks />
+    <Footer />
   </Layout >
 );
 
