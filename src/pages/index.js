@@ -64,15 +64,13 @@ const IndexPage = () => (
             <img className="img-fluid" src={postman} alt="" />
           </div>
           <div className="col-lg-6">
-            <div className="bg-black text-center h-100 project">
-              <div className="d-flex h-100">
-                <div className="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 className="text-white">Postman</h4>
-                  <p className="mb-0 text-white-50">
-                    With Google OAuth, users will have access to find centers that aid people in need.
+            <div className="d-flex h-100">
+              <div className="project-text w-100 my-auto text-center text-lg-left">
+                <h4 className="text-black">Postman</h4>
+                <p className="mb-0 text-black-50">
+                  With Google OAuth, users will have access to find centers that aid people in need.
                   </p>
-                  <hr className="d-none d-lg-block mb-0 ml-0" />
-                </div>
+                <hr className="d-none d-lg-block mb-0 ml-0" />
               </div>
             </div>
           </div>
