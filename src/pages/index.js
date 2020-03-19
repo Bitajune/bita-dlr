@@ -11,6 +11,8 @@ import Header from '../components/Header';
 import img from '../assets/images/img.png';
 import eat from '../assets/images/eat.png';
 import postman from '../assets/images/postman.png';
+import cups from '../assets/images/cups.png';
+import war from '../assets/images/war.png';
 
 const IndexPage = () => (
   <Layout>
@@ -75,6 +77,43 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
+
+        <br></br>
+        <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
+          <div className="col-lg-6">
+            <img className="img-fluid" src={cups} alt="" />
+          </div>
+          <div className="col-lg-6">
+            <div className="d-flex h-100">
+              <div className="project-text w-100 my-auto text-center text-lg-left">
+                <h4 className="text-black">Red Cup Games</h4>
+                <p className="mb-0 text-black-50">
+                  A message board for people to post about their drinking games or find new ones from other users or use the chat room to talk to people directly. Made with Django, Python, and AWS.
+                  </p>
+                <hr className="d-none d-lg-block mb-0 ml-0" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br></br>
+        <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
+          <div className="col-lg-6">
+            <img className="img-fluid" src={war} alt="" />
+          </div>
+          <div className="col-lg-6">
+            <div className="d-flex h-100">
+              <div className="project-text w-100 my-auto text-center text-lg-left">
+                <h4 className="text-black">War</h4>
+                <p className="mb-0 text-black-50">
+                  A western twist on the traditional card game War. Made using JavaScript, CSS, and HTML.
+                  </p>
+                <hr className="d-none d-lg-block mb-0 ml-0" />
+              </div>
+            </div>
+          </div>
+        </div>
+
 
       </div>
     </section>
