@@ -55,6 +55,8 @@ const IndexPage = () => (
               <h4>Of The Rose</h4>
               <p className="text-black-50 mb-0">
                 Welcome to Of The Rose. A place for people to come and find things that make their world a little brighter. Here you can search for florists, bars, and restaurants in your city through both Yelp and Google Maps API.
+                <br></br>
+                <a href="https://github.com/Bitajune/of-the-rose">Github</a>
               </p>
             </div>
           </div>
@@ -71,7 +73,9 @@ const IndexPage = () => (
                 <h4 className="text-black">Postman</h4>
                 <p className="mb-0 text-black-50">
                   With Google OAuth, users will have access to find centers that aid people in need.
-                  </p>
+                  <br></br>
+                  <a href="https://github.com/Bitajune/postman">Github</a>
+                </p>
                 <hr className="d-none d-lg-block mb-0 ml-0" />
               </div>
             </div>
@@ -89,7 +93,9 @@ const IndexPage = () => (
                 <h4 className="text-black">Red Cup Games</h4>
                 <p className="mb-0 text-black-50">
                   A message board for people to post about their drinking games or find new ones from other users or use the chat room to talk to people directly. Made with Django, Python, and AWS.
-                  </p>
+                  <br></br>
+                  <a href="https://github.com/Bitajune/red-cup-games">Github</a>
+                </p>
                 <hr className="d-none d-lg-block mb-0 ml-0" />
               </div>
             </div>
@@ -107,7 +113,9 @@ const IndexPage = () => (
                 <h4 className="text-black">War</h4>
                 <p className="mb-0 text-black-50">
                   A western twist on the traditional card game War. Made using JavaScript, CSS, and HTML.
-                  </p>
+                  <br></br>
+                  <a href="https://github.com/Bitajune/war">Github</a>
+                </p>
                 <hr className="d-none d-lg-block mb-0 ml-0" />
               </div>
             </div>
