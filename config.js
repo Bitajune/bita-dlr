@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Bita De La Rosa',
-  manifestName: 'Grayscale',
+  manifestName: '',
   manifestShortName: 'Landing',
   manifestStartUrl: '/',
   manifestBackgroundColor: 'rgb(46, 61, 55)',
