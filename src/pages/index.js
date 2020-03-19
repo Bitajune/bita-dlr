@@ -113,14 +113,14 @@ const IndexPage = () => (
             </div>
           </div>
         </div>
-
+      </div>
     </section>
 
 
 
-      <SocialLinks />
-      <Footer />
+    <SocialLinks />
+    <Footer />
   </Layout >
-    );
-    
-    export default IndexPage;
+);
+
+export default IndexPage;
