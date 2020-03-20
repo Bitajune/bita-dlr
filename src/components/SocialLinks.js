@@ -36,7 +36,7 @@ export default function SocialLinks() {
                 <i className="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 className="text-uppercase m-0">Phone</h4>
                 <hr className="my-4" />
-                <div className="small text-black-50">{config.phone}</div>
+                <div className="small text-black-50"><a href="tel:9494632482">{config.phone}</a></div>
               </div>
             </div>
           </div>
