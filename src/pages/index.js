@@ -48,7 +48,7 @@ const IndexPage = () => (
       <br></br>
       <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div className="col-lg-6">
-          <img className="projectImg" src={eat} alt="" />
+          <img className="img-fluid" src={eat} alt="" />
         </div>
         <div className="col-lg-6">
           <div className="d-flex h-100">
@@ -69,7 +69,7 @@ const IndexPage = () => (
 
       <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div className="col-lg-6">
-          <img className="projectImg" src={postman} alt="" />
+          <img className="img-fluid" src={postman} alt="" />
         </div>
         <div className="col-lg-6">
           <div className="d-flex h-100">
@@ -89,7 +89,7 @@ const IndexPage = () => (
       <br></br>
       <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div className="col-lg-6">
-          <img className="projectImg" src={cups} alt="" />
+          <img className="img-fluid" src={cups} alt="" />
         </div>
         <div className="col-lg-6">
           <div className="d-flex h-100">
@@ -109,7 +109,7 @@ const IndexPage = () => (
       <br></br>
       <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
         <div className="col-lg-6">
-          <img className="projectImg" src={war} alt="" />
+          <img className="img-fluid" src={war} alt="" />
         </div>
         <div className="col-lg-6">
           <div className="d-flex h-100">
