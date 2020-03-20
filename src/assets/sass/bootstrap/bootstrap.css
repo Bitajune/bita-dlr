@@ -479,6 +479,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  margin-left: 50px;
 }
 
 .img-thumbnail {
@@ -488,6 +489,7 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
+  margin-left: 50px;
 }
 
 .figure {
