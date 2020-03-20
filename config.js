@@ -26,5 +26,5 @@ module.exports = {
   ],
   email: 'bitadelarosa@gmail.com',
   phone: '949-463-2482',
-  address: '13881 Tustin East Dr, Tustin, CA',
+  address: 'Los Angeles',
 };
