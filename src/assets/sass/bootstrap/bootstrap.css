@@ -479,6 +479,10 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  
+}
+
+.projectImg {
   margin-left: 50px;
 }
 
@@ -489,7 +493,6 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
-  margin-left: 50px;
 }
 
 .figure {
