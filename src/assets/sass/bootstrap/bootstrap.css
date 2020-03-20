@@ -476,10 +476,14 @@ mark,
   content: "\2014\00A0";
 }
 
+.img-fluid, .img-thumbnail {
+  margin-left: 20px;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 .img-thumbnail {
@@ -489,7 +493,7 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto;
-  margin-left: 50px;
+  margin-left: 20px;
 }
 
 .figure {
