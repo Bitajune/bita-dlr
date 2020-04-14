@@ -13,6 +13,19 @@ import eat from '../assets/images/eat.png';
 import postman from '../assets/images/postman.png';
 import cups from '../assets/images/cups.png';
 import war from '../assets/images/war.png';
+import react from '../assets/images/react.png';
+import js from '../assets/images/javascript.png';
+import aws from '../assets/images/AWS.png';
+import css from '../assets/images/CSS.png';
+import django from '../assets/images/Django.png';
+import firebase from '../assets/images/Firebase.png';
+import github from '../assets/images/github.png';
+import heroku from '../assets/images/Heroku.png';
+import html from '../assets/images/HTML.png';
+import node from '../assets/images/node.png';
+import python from '../assets/images/python.png';
+import sql from '../assets/images/SQL.png';
+import vscode from '../assets/images/VSCODE.png';
 
 const IndexPage = () => (
   <Layout>
